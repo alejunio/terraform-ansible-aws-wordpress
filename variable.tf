@@ -8,7 +8,6 @@ variable "secret-key" {
   default     = "secret-aqui"
 }
 
-
 # Zone DNS AWS
 variable "zone_dns" {
   default     = "digite-aqui"
