@@ -109,6 +109,7 @@ terraform destroy -auto-approve
 ## Suporte e Consultoria 
 Deseja uma implementação personalizada para seu projeto? Entre em contato comigo.
 
+E-Mail
 * contato@alexjunio.com.br 
 * contato@alejunio.cloud
 
