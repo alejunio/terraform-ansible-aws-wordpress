@@ -96,6 +96,7 @@ terraform init
 ```shell
 terraform apply -auto-approve
 ```
+Após finalizar todo o processo, você pode acessar seu site pelo domínio que configurou e finalizar a instalação do WordPress.
 
 #### 6) Deploy  : Deletando o Servidor WordPress
 
@@ -105,3 +106,8 @@ Para remover o servidor, basta executar o comando abaixo.
 terraform destroy -auto-approve
 ```
 
+## Suporte e Consultoria 
+Deseja uma implementação personalizada para seu projeto? Entre em contato comigo.
+
+* contato@alexjunio.com.br 
+* contato@alejunio.cloud
